@@ -126,7 +126,7 @@ export default function Attribution({ isOpen, setIsOpen }) {
             <Wrapper>
                 <Avatar src="/images/image-attribution.jpg" alt="profile image"/>
                 <Heading>TyZen</Heading>
-                <Link href="https://www.frontendmentor.io/solutions/invoice-app-react-nextjs-styledcomponents-formik-framer-motion-3y1EaxPtj" target="_blank">
+                <Link href="" target="_blank">
                     <span>Visit solution page</span>
                     <img src="/images/icon-external-link.svg" alt=""/>
                 </Link>
